@@ -78,3 +78,5 @@ output(GUI, xyChart(
 	legendPosX = LegendPosX.Center,
     legendPosY = LegendPosY.Bottom,
 	showLegend = true))
+
+scala.io.StdIn.readLine()
